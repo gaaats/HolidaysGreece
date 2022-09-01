@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Extra Italy Holitivity</string>
+    <string name="app_name">Jonquil Holland Leisure</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -9,7 +9,7 @@
     <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
     <string name="music">music</string>
     <string name="vibration">vibration</string>
-    <string name="text_activity_good">Italy, officially the Italian Republic or Republic of Italy, is a country that consists of a peninsula delimited by the Alps and several islands surrounding it; its territory largely coincides with the homonymous geographical region. Italy is located in the middle of the Mediterranean Sea, in Southern Europe; it is also considered part of Western Europe. A Unitary parliamentary republic with Rome as its capital and largest city, the country covers a total area of 301,230 km2 (116,310 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, as well as the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland, Campione. With over 60 million inhabitants,[21] Italy is the third-most populous member state of the European Union.</string>
+    <string name="text_activity_good">The Netherlands, informally Holland, is a country located in Northwestern Europe with overseas territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces; it borders Germany to the east, Belgium to the south, with a North Sea coastline to the north and west. It shares maritime borders with the United Kingdom, Germany and Belgium in the North Sea. The countrys official language is Dutch, with West Frisian as a secondary official language in the province of Friesland.[</string>
     <string name="about"><u>about</u></string>
 
     <string-array name="diff_levels">
