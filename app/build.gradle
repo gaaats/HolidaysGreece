@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.holidayscountrypacksecond.holidayholland"
+        applicationId "com.holidayscountrypackthird.holidaygreeceart"
         minSdk 26
         targetSdk 32
         versionCode 1
